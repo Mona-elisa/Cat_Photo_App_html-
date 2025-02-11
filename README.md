@@ -1,1 +1,1 @@
-CatPhotoApp is a simple HTML project featuring a playful gallery of cat photos, categorized lists of things cats love and hate, and a submission form for sharing cat photos. It's a beginner-friendly project ideal for those learning HTML and CSS. Explore the world of cats with CatPhotoApp!
+Cat-Photo-App is a simple HTML project featuring a playful gallery of cat photos, categorized lists of things cats love and hate, and a submission form for sharing cat photos. It's a beginner-friendly project ideal for those learning HTML and CSS. Explore the world of cats with CatPhotoApp!
